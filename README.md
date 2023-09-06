@@ -19,3 +19,4 @@ Viewer.DrawPoint(1, 1, 0.1, Color.Red);//在位置X=1mm,Y=1mm畫一個半徑為0
 
 ViewerImage.Image = Viewer.ViewerImage;//將bitmap顯示在picturebox上
 ```
+![2Dplot](https://github.com/Yangjianzin/EZDrawing/assets/22924622/76b144d7-8c8e-4122-bcd7-cdb7670b16f6)
