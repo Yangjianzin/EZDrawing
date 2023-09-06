@@ -1,0 +1,78 @@
+C:\Users\Sam\Desktop\FemtonViewerV2.0\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\FemtonViewerV2.0\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\FemtonViewerV2.0\EZDrawing\obj\Debug\EZDrawing.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\FemtonViewerV2.0\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\FemtonViewerV2.0\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\FemtonViewerV2.0\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\ExcimerViewerV1.0\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\ExcimerViewerV1.0\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\ExcimerViewerV1.0\EZDrawing\obj\Debug\EZDrawing.csprojAssemblyReference.cache
+C:\Users\Sam\Desktop\ExcimerViewerV1.0\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\ExcimerViewerV1.0\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\ExcimerViewerV1.0\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\M7 N+P GUI\ExcimerViewerV2.0\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\M7 N+P GUI\ExcimerViewerV2.0\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\M7 N+P GUI\ExcimerViewerV2.0\EZDrawing\obj\Debug\EZDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\M7 N+P GUI\ExcimerViewerV2.0\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\M7 N+P GUI\ExcimerViewerV2.0\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\EMC_s\Desktop\M7AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\EMC_s\Desktop\M7AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\EMC_s\Desktop\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+C:\Users\EMC_s\Desktop\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+C:\Users\EMC_s\Desktop\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\EMC_s\Desktop\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.pdb
+E:\艾克夏工作\M7AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.dll
+E:\艾克夏工作\M7AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.pdb
+E:\艾克夏工作\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+E:\艾克夏工作\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+E:\艾克夏工作\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.dll
+E:\艾克夏工作\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\Aspheric\M7AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\Aspheric\M7AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\Aspheric\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Aspheric\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\Aspheric\M7AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\Aspheric\F1AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\Aspheric\F1AlogrithmsWithCSharpModule\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\Aspheric\F1AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\Aspheric\F1AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\Aspheric\F1AlogrithmsWithCSharpModule\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\C# test Module\F1AlogrithmsDemo\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\C# test Module\F1AlogrithmsDemo\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\C# test Module\F1AlogrithmsDemo\EZDrawing\obj\Debug\EZDrawing.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\C# test Module\F1AlogrithmsDemo\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\C# test Module\F1AlogrithmsDemo\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\C# test Module\FemtonAlgorithmsModule\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\C# test Module\FemtonAlgorithmsModule\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\C# test Module\FemtonAlgorithmsModule\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\C# test Module\FemtonAlgorithmsModule\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing\EZDrawing\obj\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing2.0\EZDrawing\bin\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing2.0\EZDrawing\bin\Debug\EZDrawing.pdb
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing2.0\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing2.0\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing2.0\EZDrawing\obj\Debug\EZDrawing.dll
+C:\Users\Sam\Desktop\FemtonAlgorithmsModule_Testing2.0\EZDrawing\obj\Debug\EZDrawing.pdb
+D:\Testing-Project\FemtonAlgorithmsModule散光\EZDrawing\bin\Debug\EZDrawing.dll
+D:\Testing-Project\FemtonAlgorithmsModule散光\EZDrawing\bin\Debug\EZDrawing.pdb
+D:\Testing-Project\FemtonAlgorithmsModule散光\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+D:\Testing-Project\FemtonAlgorithmsModule散光\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+D:\Testing-Project\FemtonAlgorithmsModule散光\EZDrawing\obj\Debug\EZDrawing.dll
+D:\Testing-Project\FemtonAlgorithmsModule散光\EZDrawing\obj\Debug\EZDrawing.pdb
+D:\Testing-Project\FemtonAlgorithmsModuleFinal\EZDrawing\bin\Debug\EZDrawing.dll
+D:\Testing-Project\FemtonAlgorithmsModuleFinal\EZDrawing\bin\Debug\EZDrawing.pdb
+D:\Testing-Project\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+D:\Testing-Project\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+D:\Testing-Project\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.dll
+D:\Testing-Project\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.pdb
+D:\FemtonF1\FemtonAlgorithmsModuleFinal\EZDrawing\bin\Debug\EZDrawing.dll
+D:\FemtonF1\FemtonAlgorithmsModuleFinal\EZDrawing\bin\Debug\EZDrawing.pdb
+D:\FemtonF1\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.csproj.AssemblyReference.cache
+D:\FemtonF1\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.csproj.CoreCompileInputs.cache
+D:\FemtonF1\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.dll
+D:\FemtonF1\FemtonAlgorithmsModuleFinal\EZDrawing\obj\Debug\EZDrawing.pdb
